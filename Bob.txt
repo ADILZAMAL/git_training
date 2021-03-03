@@ -1,0 +1,1 @@
+This is Bob text from change_bob branch of repositories. 
